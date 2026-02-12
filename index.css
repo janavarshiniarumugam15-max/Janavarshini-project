@@ -1,0 +1,349 @@
+na{
+    padding:30px;
+    position: static;
+}
+ul li{
+    display:inline;
+    font-size:x-large;
+}
+.home{
+    padding-left: 400px;
+
+}
+
+a{
+    text-decoration: none;
+}
+nav{
+    background-color:whitesmoke;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    position: static;
+    right: 0;
+    top: 0;
+    height: 80px;
+    padding: 2px;
+    position: fixed;
+}
+.img :hover{
+    transform: translateY(-12px)
+}
+
+.one{
+    background-color:rgb(54, 146, 182);
+    width:170px;
+    height: 50px;
+    border-radius: 30px;
+    margin-left: 39%;
+    border-width: 1px;
+    border-color: azure;
+}
+.one:hover{
+    transform: translateY(-12px);
+     background-color:rgb(54, 146, 182);
+    color: white;
+}
+.two{
+    color: rgb(82, 94, 104);
+    margin-top: 3cm;
+    margin-left: 5cm;
+    background-color:rgb(242, 244, 247);
+    display: inline-block;
+    width: 75%;
+    height: 13.5cm;
+}
+.four{
+    color: rgb(54, 146, 182);
+    width:110px;
+    height: 70px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: whitesmoke;
+     box-shadow: whitesmoke;
+     background-color: white;
+}
+.four:hover{
+    transform: translateY(-12px);
+    background-color:rgb(54, 146, 182);
+    color: white;
+}
+.five{
+     color: rgb(54, 146, 182);
+    width:110px;
+    height: 70px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: whitesmoke;
+     box-shadow: whitesmoke;
+     background-color: white;
+}
+.five:hover{
+    transform: translateY(-12px);
+     background-color:rgb(54, 146, 182);
+    color: white;
+}
+.six{
+     color: rgb(54, 146, 182);
+    width:140px;
+    height: 80px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: whitesmoke;
+    box-shadow: whitesmoke;
+    background-color: white;
+}
+
+.six:hover{
+    transform: translateY(-12px);
+     background-color:rgb(54, 146, 182);
+    color: white;
+}
+.a{
+    color: rgb(54, 146, 182);
+    width:140px;
+    height: 80px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: whitesmoke;
+     box-shadow: whitesmoke;
+     background-color: white;
+}
+.a:hover{
+    transform: translateY(-12px);
+     background-color:rgb(54, 146, 182);
+    color: white;
+}
+.b{
+     color: rgb(16, 157, 212);
+    width:170px;
+    height: 90px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: whitesmoke;
+     box-shadow: whitesmoke;
+     background-color: white;
+}
+.b:hover{
+    transform: translateY(-12px);
+     background-color:rgb(54, 146, 182);
+    color: white;
+}
+.d{
+    color: rgb(54, 146, 182);
+    background-color: white;
+    width:160px;
+    height: 90px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: whitesmoke;
+     box-shadow: whitesmoke;
+     padding-left: 8px;
+}
+.d:hover{
+    transform: translateY(-12px);
+     background-color:rgb(54, 146, 182);
+    color: white;
+}
+.e{
+ 
+    color: rgb(54, 146, 182);
+    background-color: white;
+    width:160px;
+    height: 90px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: whitesmoke;
+     box-shadow: whitesmoke;
+     padding-left: 8px;   
+}
+.e:hover{
+    transform: translateY(-12px);
+     background-color:rgb(54, 146, 182);
+    color: white;
+}
+.je{
+    color: white;
+    margin-top: 5%;
+    margin-left: 5cm;
+    background-color: rgb(236, 239, 239);
+    display: inline-block;
+    width: 80%;
+    height: 18cm;
+}
+.ga{
+    background-color:ghostwhite;
+    width: 300px;
+    height: 380px;
+    border-radius: 2%;
+}
+.si{
+    background-color: ghostwhite;
+    width: 300px;
+    height: 380px;
+    border-radius: 2%;
+
+}
+.per{
+     background-color: ghostwhite;
+    width: 300px;
+    height: 380px;
+    border-radius: 2%;
+}
+.je{
+    color: white;
+    margin-top: 5%;
+    margin-left: 5cm;
+    background-color:rgb(242, 244, 247);
+    display: inline-block;
+    width: 75%;
+    height: 17cm;
+}
+.ga{
+    background-color:white;
+    width: 300px;
+    height: 350px;
+    border-radius: 10px;
+    margin-bottom: 4%;
+    margin-left: 3%;
+}
+.si{
+    background-color:white;
+    width: 300px;
+    height: 350px;
+    border-radius:10px;
+     margin-left:-2%;
+
+}
+.per{
+     background-color: white;
+    width: 300px;
+    height: 350px;
+    border-radius: 10px;
+     margin-left: -2%;
+     border-width: 1px;
+     border-color:whitesmoke ; 
+}
+.page{
+    display: grid;
+    display: flex;
+    column-gap: 4%;
+    grid-template-columns: repeat(3,1fr);
+    padding:1%;
+}
+.btu{
+     background-color: rgb(54, 146, 182);
+    margin-left: 0.5cm;
+    width: 3cm;
+    height: 14%;
+    border-radius: 20px;
+     border-width: 1px;
+     border-color:whitesmoke ; 
+}
+.btu:hover{
+    transform: translateY(-12px);
+     background-color:rgb(54, 146, 182);
+    color: white;
+}
+.but{
+     background-color:rgb(54, 146, 182);
+    margin-top: 20%;
+    margin-left: 8%;
+    width: 3cm;
+    height: 14%;
+    border-radius: 20px;
+     border-width: 1px;
+     border-color:whitesmoke ; 
+}
+.but:hover{
+    transform: translateY(-12px);
+     background-color:rgb(54, 146, 182);
+    color: white;
+}
+.y{
+     background-color: rgb(54, 146, 182);
+     margin-top: 13%;
+    margin-left: 13px;
+    width: 3cm;
+    height: 14%;
+    border-radius: 20px;
+     border-width: 1px;
+     border-color:whitesmoke ; 
+}
+.y:hover{
+    transform: translateY(-15px);
+     background-color:rgb(54, 146, 182);
+    color: white;
+}
+
+.z{
+     background-color: rgb(54, 146, 182);
+    margin-left: -1.5cm;
+    width: 3cm;
+    height: 14%;
+    border-radius: 20px;
+     border-width: 1px;
+     border-color:whitesmoke ; 
+}
+.z:hover{
+    transform: translateY(-12px);
+     background-color:rgb(54, 146, 182);
+    color: white;
+}
+.x{
+      background-color: rgb(54, 146, 182);
+     margin-top: 19%;
+    margin-left: 13px;
+    width: 3cm;
+    height: 14%;
+    border-radius: 20px;
+     border-width: 1px;
+     border-color:whitesmoke ; 
+}
+.x:hover{
+    transform: translateY(-12px);
+     background-color:rgb(54, 146, 182);
+    color: white;
+}
+.w{
+     background-color: rgb(54, 146, 182);
+    margin-left: -1.5cm;
+    width: 3cm;
+    height: 14%;
+    border-radius: 20px;
+     border-width: 1px;
+     border-color:whitesmoke ; 
+}
+.w:hover{
+    transform: translateY(-12px);
+     background-color:rgb(54, 146, 182);
+    color: white;
+}
+.lin{
+    margin-top: -4%;
+}
+.git{
+    margin-top: 3%;
+}
+
+.las{
+    display:block;
+    text-align:right(10%) ;
+    text-align:justify;
+    justify-content: center;
+    width: 100%;
+    height: 100px;
+     background-color: rgb(230, 237, 243);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.lins{
+    width:330px ;
+    height: 60px;
+    background-color:aliceblue ;
+    color: rgb(43, 146, 237);
+    border-radius: 32px;
+}
+.lins:hover{
+     transform: translateY(-30px);
+     transition: 1.5s;
+     background-color:rgb(54, 146, 182);
+    color: white;
+}
